@@ -85,3 +85,4 @@ while True:
 			ties = ties + 1
 	else: #print something else
 		print("Please choose from either 'r', 'p', 's', or 'q'")
+#The End
